@@ -1,3 +1,5 @@
 my_info
 src/data
 src/mails
+src/data/*
+src/mails/*
